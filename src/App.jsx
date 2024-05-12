@@ -9,26 +9,26 @@ import Footer from "./sections/Footer";
 const App=() =>(
   <main className="relative">
  <Nav/>
- <section className="xl:padding-l wide:padding-r padding-b">
+ <section>
  <Hero/>
  </section>
- <section className="padding">
+ <section >
  <Explore />
  </section>
- <section className="padding">
+ <section>
  <QualityApps/>
  </section>
- <section className="padding-x py-10">
+ <section>
  <Buy/>
  </section>
 
- <section className="bg-pale-blue padding">
+ <section>
  <Help/>
  </section>
- <section className="padding-x sm:py-32 py-16 w-full">
+ <section>
  <Subscribe/>
  </section>
- <section className="padding bg-black padding-x padding-t pb-8">
+ <section >
  <Footer />
  </section>
   </main>
