@@ -7,6 +7,7 @@ const Card = ({cardicon,label,subtext}) => {
           </div>
           <h3 className="mt-5 font-palanquin text-3xl leading-normal font-bold">{label}</h3>
           <p className="mt-3 break-words font-montserrat text-lg leading-normal text-slate-gray">{subtext}</p>
+
       </div>
     )
   }

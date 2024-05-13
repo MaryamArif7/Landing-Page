@@ -6,6 +6,7 @@ import Feature22 from "./sections/Feature2";
 import Feature33 from "./sections/Feature3"
 import QualityApps from "./sections/QualityApps";
 import Buy from "./sections/Buy";
+import Small from "./sections/Small";
 import Help from "./sections/Help";
 import Subscribe from "./sections/Subscribe";
 import Footer from "./sections/Footer";
@@ -33,7 +34,9 @@ const App=() =>(
  <section>
  <Buy/>
  </section>
-
+<section>
+  <Small />
+</section>
  <section>
  <Help/>
  </section>
