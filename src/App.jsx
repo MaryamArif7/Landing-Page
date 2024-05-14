@@ -43,7 +43,7 @@ const App=() =>(
  <section>
  <Subscribe/>
  </section>
- <section >
+ <section className="mt-20 padding bg-black padding-x padding-t pb-8">
  <Footer />
  </section>
   </main>

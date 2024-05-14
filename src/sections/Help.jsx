@@ -6,12 +6,12 @@ const Help = () => {
 <div className=" pt-20 flex justify-center">
 <h1 className="text-black-500 text-4xl">Need Help?</h1>
 </div>
-<div className="mt-10 flex justify-center text-black-50 text-center">
+<div className="mt-8 flex justify-center text-black-50 text-center">
 <p>Don't worry, we got you. Here are some answers for <br /> your questions.</p>
 </div>
 </div>
 <div>
-  
+  0
 </div>
     </section>
   )
